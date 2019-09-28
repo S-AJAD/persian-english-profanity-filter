@@ -7,4 +7,4 @@ It will remove all the swear words from the list which are in the sentence. Also
 How to use:
 
 simply run the following command in project directory:
-php -S localhost:YOUR_PORT
+`php -S localhost:YOUR_PORT`
